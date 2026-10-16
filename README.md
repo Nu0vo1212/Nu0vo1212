@@ -11,9 +11,6 @@
 兴趣使然的开发者。平时捣鼓网络工具和 Linux 系统，偶尔写点前端。
 
 - 🔭 目前在折腾 **[Rust-Frp](https://github.com/Nu0vo1212/Rust-Frp)** —— 用 Rust 写的 frp 客户端 / 服务端，兼容原版 frp
-- 🐧 从零撸了一个 Linux 发行版 **[lfOS / LumenFlux](https://github.com/Nu0vo1212/LumenFlux-lfOS)**
-- ☁️ 自托管云盘 **[Nu0voCloudDisk](https://github.com/Nu0vo1212/Nu0voCloudDisk)**
-- ✍️ 博客碎碎念 **[Nu0vo1212の小窝](https://nu0vo.xyz)**
 
 ---
 
