@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1200&color=FB7299&center=true&vCenter=true&width=640&lines=Hi+there+%F0%9F%91%8B+I'm+Nu0vo1212;%E5%85%B4%E8%B6%A3%E4%BD%BF%E7%84%B6%E7%9A%84%E5%BC%80%E5%8F%91%E8%80%85;Rust+%C2%B7+Linux+%C2%B7+%E5%86%85%E7%BD%91%E7%A9%BF%E9%80%8F;%E4%BB%8E%E6%9D%A5%E5%A6%82%E6%AD%A4%EF%BC%8C%E4%BE%BF%E5%AF%B9%E4%B9%88%EF%BC%9F)](https://github.com/Nu0vo1212)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Microsoft+YaHei&weight=700&size=26&pause=1200&color=FB7299&center=true&vCenter=true&width=640&lines=Hi+there+%F0%9F%91%8B+I'm+Nu0vo1212;%E5%85%B4%E8%B6%A3%E4%BD%BF%E7%84%B6%E7%9A%84%E5%BC%80%E5%8F%91%E8%80%85;Rust+%C2%B7+Linux+%C2%B7+%E5%86%85%E7%BD%91%E7%A9%BF%E9%80%8F;%E4%BB%8E%E6%9D%A5%E5%A6%82%E6%AD%A4%EF%BC%8C%E4%BE%BF%E5%AF%B9%E4%B9%88%EF%BC%9F)](https://github.com/Nu0vo1212)
 
 [![Blog](https://img.shields.io/badge/Blog-nu0vo.xyz-fb7299?style=for-the-badge&logo=rss&logoColor=white)](https://nu0vo.xyz)
 [![Mail](https://img.shields.io/badge/Mail-1503116017%40qq.com-c14438?style=for-the-badge&logo=gmail&logoColor=white)](mailto:1503116017@qq.com)
