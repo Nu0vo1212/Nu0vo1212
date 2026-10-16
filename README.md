@@ -1,10 +1,10 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1200&color=409BA5&center=true&vCenter=true&width=640&lines=Hi+there+%F0%9F%91%8B+I'm+Nu0vo1212;%E5%85%B4%E8%B6%A3%E4%BD%BF%E7%84%B6%E7%9A%84%E5%BC%80%E5%8F%91%E8%80%85;Rust+%C2%B7+Linux+%C2%B7+%E5%86%85%E7%BD%91%E7%A9%BF%E9%80%8F;%E4%BB%8E%E6%9D%A5%E5%A6%82%E6%AD%A4%EF%BC%8C%E4%BE%BF%E5%AF%B9%E4%B9%88%EF%BC%9F)](https://github.com/Nu0vo1212)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1200&color=FB7299&center=true&vCenter=true&width=640&lines=Hi+there+%F0%9F%91%8B+I'm+Nu0vo1212;%E5%85%B4%E8%B6%A3%E4%BD%BF%E7%84%B6%E7%9A%84%E5%BC%80%E5%8F%91%E8%80%85;Rust+%C2%B7+Linux+%C2%B7+%E5%86%85%E7%BD%91%E7%A9%BF%E9%80%8F;%E4%BB%8E%E6%9D%A5%E5%A6%82%E6%AD%A4%EF%BC%8C%E4%BE%BF%E5%AF%B9%E4%B9%88%EF%BC%9F)](https://github.com/Nu0vo1212)
 
-[![Blog](https://img.shields.io/badge/Blog-nu0vo.xyz-409ba5?style=for-the-badge&logo=rss&logoColor=white)](https://nu0vo.xyz)
+[![Blog](https://img.shields.io/badge/Blog-nu0vo.xyz-fb7299?style=for-the-badge&logo=rss&logoColor=white)](https://nu0vo.xyz)
 [![Mail](https://img.shields.io/badge/Mail-1503116017%40qq.com-c14438?style=for-the-badge&logo=gmail&logoColor=white)](mailto:1503116017@qq.com)
-[![Followers](https://img.shields.io/github/followers/Nu0vo1212?label=Followers&style=for-the-badge&color=409ba5&logo=github)](https://github.com/Nu0vo1212?tab=followers)
+[![Followers](https://img.shields.io/github/followers/Nu0vo1212?label=Followers&style=for-the-badge&color=fb7299&logo=github)](https://github.com/Nu0vo1212?tab=followers)
 
 </div>
 
@@ -21,10 +21,7 @@
 
 | 项目 | 说明 | Stars |
 | :-- | :-- | :--: |
-| **[Rust-Frp](https://github.com/Nu0vo1212/Rust-Frp)** | Rust 端的 frp 客户端 / 服务端，兼容原版 frp | [![stars](https://img.shields.io/github/stars/Nu0vo1212/Rust-Frp?style=flat&color=409ba5)](https://github.com/Nu0vo1212/Rust-Frp) |
-| **[LumenFlux-lfOS](https://github.com/Nu0vo1212/LumenFlux-lfOS)** | 快、轻、安全的 Linux 系统 | [![stars](https://img.shields.io/github/stars/Nu0vo1212/LumenFlux-lfOS?style=flat&color=409ba5)](https://github.com/Nu0vo1212/LumenFlux-lfOS) |
-| **[Nu0voCloudDisk](https://github.com/Nu0vo1212/Nu0voCloudDisk)** | 自托管的 Web 云盘，UI 好看，性能也不错 | [![stars](https://img.shields.io/github/stars/Nu0vo1212/Nu0voCloudDisk?style=flat&color=409ba5)](https://github.com/Nu0vo1212/Nu0voCloudDisk) |
-| **[VersePC-CE](https://github.com/Nu0vo1212/VersePC-CE)** | 继承 VersePC2 再开发的玩家自制版本 | [![stars](https://img.shields.io/github/stars/Nu0vo1212/VersePC-CE?style=flat&color=409ba5)](https://github.com/Nu0vo1212/VersePC-CE) |
+| **[Rust-Frp](https://github.com/Nu0vo1212/Rust-Frp)** | Rust 端的 frp 客户端 / 服务端，兼容原版 frp | [![stars](https://img.shields.io/github/stars/Nu0vo1212/Rust-Frp?style=flat&color=fb7299)](https://github.com/Nu0vo1212/Rust-Frp) |
 
 #### 🛠 技术栈
 
@@ -39,9 +36,9 @@
 
 <div align="center">
 
-[![Nu0vo1212 的贡献图](https://ghchart.rshah.org/409ba5/Nu0vo1212)](https://github.com/Nu0vo1212)
+[![Nu0vo1212 的贡献图](https://ghchart.rshah.org/fb7299/Nu0vo1212)](https://github.com/Nu0vo1212)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Nu0vo1212&theme=vue&locale=zh&hide_border=true)](https://github.com/Nu0vo1212)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Nu0vo1212&locale=zh&hide_border=true&background=FFFFFF&ring=FB7299&fire=FB7299&currStreakNum=FB7299&currStreakLabel=FB7299&sideNums=616161&sideLabels=616161&dates=9E9E9E)](https://github.com/Nu0vo1212)
 
 </div>
 
@@ -49,6 +46,6 @@
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=Nu0vo1212&label=Profile%20Views&color=409ba5&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=Nu0vo1212&label=Profile%20Views&color=fb7299&style=flat)
 
 </div>
