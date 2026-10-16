@@ -36,7 +36,7 @@
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Nu0vo1212&show_icons=true&count_private=true&include_all_commits=true&title_color=FB7299&icon_color=FB7299&text_color=4B4B4B&bg_color=FFFFFF&border_color=FB7299&border_radius=10" alt="GitHub Stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Nu0vo1212&show_icons=true&count_private=true&cache_seconds=1800&title_color=FB7299&icon_color=FB7299&text_color=4B4B4B&bg_color=FFFFFF&border_color=FB7299&border_radius=10" alt="GitHub Stats" />
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nu0vo1212&layout=donut&langs_count=6&title_color=FB7299&text_color=4B4B4B&bg_color=FFFFFF&border_color=FB7299&border_radius=10" alt="Most Used Languages" />
 
 [![Nu0vo1212 的贡献图](https://ghchart.rshah.org/fb7299/Nu0vo1212)](https://github.com/Nu0vo1212)
