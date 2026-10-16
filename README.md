@@ -11,6 +11,9 @@
 兴趣使然的开发者。平时捣鼓网络工具和 Linux 系统，偶尔写点前端。
 
 - 🔭 目前在折腾 **[Rust-Frp](https://github.com/Nu0vo1212/Rust-Frp)** —— 用 Rust 写的 frp 客户端 / 服务端，兼容原版 frp
+- 🐧 从零撸了一个 Linux 发行版 **[lfOS / LumenFlux](https://github.com/Nu0vo1212/LumenFlux-lfOS)**
+- ☁️ 自托管云盘 **[Nu0voCloudDisk](https://github.com/Nu0vo1212/Nu0voCloudDisk)**
+- ✍️ 博客碎碎念 **[Nu0vo1212の小窝](https://nu0vo.xyz)**
 
 ---
 
@@ -32,6 +35,9 @@
 #### 📊 GitHub 数据
 
 <div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Nu0vo1212&show_icons=true&count_private=true&include_all_commits=true&title_color=FB7299&icon_color=FB7299&text_color=4B4B4B&bg_color=FFFFFF&border_color=FB7299&border_radius=10" alt="GitHub Stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nu0vo1212&layout=donut&langs_count=6&title_color=FB7299&text_color=4B4B4B&bg_color=FFFFFF&border_color=FB7299&border_radius=10" alt="Most Used Languages" />
 
 [![Nu0vo1212 的贡献图](https://ghchart.rshah.org/fb7299/Nu0vo1212)](https://github.com/Nu0vo1212)
 
