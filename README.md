@@ -21,7 +21,7 @@
 | 项目 | 说明 | Stars |
 | :-- | :-- | :--: |
 | **[Rust-Frp](https://github.com/Nu0vo1212/Rust-Frp)** | Rust 端的 frp 客户端 / 服务端，兼容原版 frp | [![stars](https://img.shields.io/github/stars/Nu0vo1212/Rust-Frp?style=flat&color=fb7299)](https://github.com/Nu0vo1212/Rust-Frp) |
-| **[NFRp-Panel](https://github.com/Nu0vo1212/NFrp-Panel)** | 面向 NFrp 与官方 frp 的统一 Web 管理面板，在线文档 [nu0vo1212.github.io/NFrp-Panel](https://nu0vo1212.github.io/NFrp-Panel/) | [![stars](https://img.shields.io/github/stars/Nu0vo1212/NFrp-Panel?style=flat&color=fb7299)](https://github.com/Nu0vo1212/NFrp-Panel) |
+| **[NFfp-Panel](https://github.com/Nu0vo1212/NFrp-Panel)** | 面向 NFrp 与官方 frp 的统一 Web 管理面板，在线文档 [nu0vo1212.github.io/NFrp-Panel](https://nu0vo1212.github.io/NFrp-Panel/) | [![stars](https://img.shields.io/github/stars/Nu0vo1212/NFrp-Panel?style=flat&color=fb7299)](https://github.com/Nu0vo1212/NFrp-Panel) |
 
 #### 🛠 技术栈
 
